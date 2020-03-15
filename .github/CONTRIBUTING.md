@@ -9,19 +9,12 @@ Third-party patches are essential for keeping open-source software great. In the
 
 ## Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Bug Reports](#bug-reports)
-3. [Feature Requests](#feature-requests)
-4. [Pull Requests](#pull-requests)
+1. [Bug Reports](#bug-reports)
+2. [Feature Requests](#feature-requests)
+3. [Pull Requests](#pull-requests)
     1. [The Process](#the-process)
     2. [Gotchas](#gotchas)
-5. [Additional Resources](#additional-resources)
-
-## Getting Started
-
-1. Make sure you have a [GitHub account](https://github.com/signup/free).
-2. Read the [Style Guide](https://github.com/chrisopedia/alfred-fontfamily-workflow/wiki/Style-Guide) docs in the Wiki.  I won't accept any pull request that doesn't adhere, so be forewarned.
-3. Please [ask before](https://twitter.com/chrisOHpedia) making significant changes.  I'd hate for you to put in a lot of work for something that doesn't align with the vision of this project.
+4. [Additional Resources](#additional-resources)
 
 ## Bug Reports
 
@@ -60,6 +53,7 @@ I'm always open for new ideas, so don't be afraid to issue a feature request, bu
 ## Pull Requests
 
 ### The Process
+
 1. [Fork It](https://github.com/chrisopedia/alfred-fontfamily-workflow/fork)
 2. Clone the repo (`git clone https://github.com/<username>/alfred-fontfamily-workflow`)
 3. Configure the remote.
@@ -84,6 +78,7 @@ I'm always open for new ideas, so don't be afraid to issue a feature request, bu
 **IMPORTANT**: By submitting a patch, you agree to the same license as that used by the project.
 
 ### Gotchas
+
 - Please avoid working directly on the `master` branch.
 - Make commits of logical units.
 - Check for unnecessary whitespace with `git diff --check` before committing.
